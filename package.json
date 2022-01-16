@@ -1,0 +1,25 @@
+{
+  "name": "discord-events",
+  "version": "1.0.0",
+  "description": "Add more Discord.js events to your bot!",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TurtlePaw/Discord-Events.git"
+  },
+  "keywords": [
+    "discordjs",
+    "discord",
+    "discord-events",
+    "events"
+  ],
+  "author": "Turtlepaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TurtlePaw/Discord-Events/issues"
+  },
+  "homepage": "https://github.com/TurtlePaw/Discord-Events#readme"
+}
